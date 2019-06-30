@@ -1,0 +1,11 @@
+#{
+#    "username": "ascoo",
+#    "stream_ids": ["9zk4m3ww6b", "lx3pcmffpp"],
+#    "api_key": "qppkmcjet3"
+#}
+   
+{
+"plotly_streaming_tokens": ["9zk4m3ww6b", "lx3pcmffpp"],
+"plotly_api_key": "d6k9457d4a",
+"plotly_username": "ascoo"
+}
